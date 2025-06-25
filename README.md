@@ -1,15 +1,7 @@
-# 🚀 Acuas website
-
+# 🚀 Reda online store
 🔗**DEMO** [visit](https://reda-online-store.netlify.app/)
 
-## 📋 Overview
-
-We make clean water easy to get!
-we provide fresh, healthy, and cool drinking water delivered straight to your home or workplace. We offer fast delivery, high quality, and great prices. Whether you need small bottles or large gallons — we're here to serve you.
-
 ## ✨ Features
-
-- **Responsive Design 📱**
 - **Fast Performance ⚡**
 
 ## 🛠️ Technologies
