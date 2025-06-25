@@ -1,12 +1,63 @@
-# React + Vite
+# 🚀 Acuas website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗**DEMO** [visit](https://reda-online-store.netlify.app/)
 
-Currently, two official plugins are available:
+## 📋 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+We make clean water easy to get!
+we provide fresh, healthy, and cool drinking water delivered straight to your home or workplace. We offer fast delivery, high quality, and great prices. Whether you need small bottles or large gallons — we're here to serve you.
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Responsive Design 📱**
+- **Fast Performance ⚡**
+
+## 🛠️ Technologies
+
+- **React**
+- **JavaScript**
+- **CSS**
+- **Vite**
+- **API**
+
+## 📦 Libraries
+
+- **react-router-dom**
+- **framer-motion**
+- **swiper**
+- **react-hot-toast**
+- **react-icons**
+
+## 🏁 Getting Started
+
+1. 📥 Clone this repository
+
+**SSH**
+
+```
+git@github.com:Kmqe/reda-online-store.git
+```
+
+**HTTPS**
+
+```
+https://github.com/Kmqe/reda-online-store.git
+```
+
+2. Install dependencies
+
+```
+npm install
+```
+
+3. Start the development server:
+
+```
+npm run dev
+```
+
+4. 🎉 Enjoy!
+
+⭐ **Star this project if you find it useful!** ⭐
+
+🙏 Thanks for visiting! 🙏
